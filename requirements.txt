@@ -1,0 +1,7 @@
+future
+requests
+beautifulsoup4
+decorator
+urllib3
+pathlib
+cfscrape

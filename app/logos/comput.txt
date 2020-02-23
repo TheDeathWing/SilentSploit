@@ -1,0 +1,13 @@
+{BLUE}   _______________                        {BOLD}{YELLOW}|*\_/*|{clr}{dyel}________
+{BLUE}  |  ___________  |     {RED}.-.     .-.{clr}      {dyel}|{BOLD}{YELLOW}|_/-\_|{clr}{dyel}______  |
+{BLUE}  | |           | |    {RED}.****. .****.{clr}     {dyel}| |           | |
+{BLUE}  | |   {clr}{BLUE}0   0   {BLUE}| |    {RED}.*****.*****.     {dyel}| |   {clr}{YELLOW}0   0   {dyel}| |
+{BLUE}  | |     {clr}{BLUE}-     {BLUE}| |     {RED}.*********.      {dyel}| |     {clr}{YELLOW}-     {dyel}| |
+{BLUE}  | |   {clr}{BLUE}\___/   {BLUE}| |      {RED}.*******.       {dyel}| |   {clr}{YELLOW}\___/   {dyel}| |
+{BLUE}  | |___     ___| |       {RED}.*****.        {dyel}| |___________| |
+{BLUE}  |_____{BOLD}{BLUE}|\_/|{clr}{BLUE}_____|        {RED}.***.{clr}         {dyel}|_______________|
+{BLUE}    _|__{BOLD}{BLUE}|/ \|{clr}{BLUE}_|_{BOLD}{RED}.............{clr}{RED}*{clr}{BOLD}{RED}..............{clr}{dyel}_|________|_
+{BLUE}   / ********** \                          {dyel}/ ********** \
+{BLUE} /  ************  \                      {dyel}/  ************  \
+{BLUE}--------------------     
+{END}
