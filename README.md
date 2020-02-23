@@ -1,5 +1,5 @@
 # SilentSploit - Multi purpose embedded framework
-[![Python 2.7](https://img.shields.io/badge/python-V2.7-yellow.svg)](https://www.python.org/download/)
+[![Python 3.7](https://img.shields.io/badge/python-V3.7-yellow.svg)](https://www.python.org/download/)
 
 SilentSploit Framework is another framework (?
 Our framework is a multi purpose embedded framework
@@ -39,7 +39,7 @@ git pull
 SilentSploit is under BSD LICENSE. Please see [License](LICENSE) For more.
 
 # Create your own config file!
-In few months or days we will launch a guide about how to create config files. Please, don't try make a config file if you don't know how create one. Config files must be in Python2. Also, you can ask on https://t.me/S0ZS78(Our telegram chat)
+In few months or days we will launch a guide about how to create config files. Please, don't try make a config file if you don't know how create one. Config files must be in Python3. Also, you can ask on https://t.me/S0ZS78(Our telegram chat)
 
 ## Please read!
 For continue with the project we need more resources if you can donate us :)
