@@ -22,7 +22,7 @@ Modules:
 ## Installation linux
 ```
 apt update && apt upgrade
-pkg install python2
+pkg install python
 pkg install git 
 git clone https://github.com/TheDeathWing/SilentSploit
 cd SilentSploit
